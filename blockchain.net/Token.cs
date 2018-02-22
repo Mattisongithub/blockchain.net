@@ -3,13 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Security.Cryptography;
+using HashLib;
 
-namespace blockchain.net
+namespace Blockchain
 {
-    class Program
+    class Token
     {
-        static void Main(string[] args)
+
+        public Token(string address)
         {
+
         }
     }
 }
